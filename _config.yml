@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Trevor Vincent"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Trevor Vincent"
 description              : &description "Postdoc in Political Science"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Trevor Vincent"
   avatar           : "profile.png"
   bio              : "Data Scientist"
   location         :
@@ -99,8 +99,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : trevor-vincent
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
