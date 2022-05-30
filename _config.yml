@@ -11,8 +11,8 @@ title                    : "Trevor Vincent"
 title_separator          : "-"
 name                     : &name "Trevor Vincent"
 description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://trevor-vincent.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/website-new" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
